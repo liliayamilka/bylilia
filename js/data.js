@@ -11,7 +11,7 @@
    ============================================================ */
 window.SITE = {
   behance: 'https://www.behance.net/liliacst',
-  cv: '',                       // ← PEGA AQUÍ EL ENLACE DE TU CV (el ícono ya está en el home)
+  cv: 'https://drive.google.com/file/d/1qZyLZdBTbxFOL81gV6_ddAwCRX-CkLN9/view?usp=sharing',                       // ← PEGA AQUÍ EL ENLACE DE TU CV (el ícono ya está en el home)
   img: 'assets/img/', vid: 'assets/videos/',
   projects: [
   { slug:'party-bus', name:'Party Bus', kicker:'SERVICIO PARA FIESTAS', tags:['BRANDING', 'SOCIAL MEDIA'], color:'#331a4f',
